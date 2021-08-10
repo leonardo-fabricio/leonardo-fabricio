@@ -14,8 +14,6 @@ Graduando em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,7 +23,6 @@ Graduando em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros
   <img align="center" alt="C++" height="40" width="50" src="https://icongr.am/devicon/cplusplus-original.svg">
   <img align="center" alt="Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div><br>
   
