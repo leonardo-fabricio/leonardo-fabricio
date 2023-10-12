@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I am Leonardo Fabrício</h1>
 
-Graduando em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
+Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
 
 <ul>
   <li>Developer from <b>Alexandria/RN, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
