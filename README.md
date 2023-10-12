@@ -4,7 +4,6 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
 
 <ul>
   <li>Developer from <b>Alexandria/RN, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
-  <li>💾 Few tech that I enjoy working in are Java, Python, PHP, C++, Mysql, Sqlite3 and Git;</li>
 </ul>
 
  <div>
