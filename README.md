@@ -3,7 +3,7 @@
 Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
 
 <ul>
-  <li>Developer from <b>Alexandria/RN, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+  <li>Developer from <b>Alexandria/RN, 🇧🇷 Brasil</b>;</li>
 </ul>
 
  <div>
