@@ -23,7 +23,6 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
   <img align="center" alt="Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png">
   <img align="center" height="30" width="40" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png">
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
   <img align="center" height="30" width="40" src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg">
