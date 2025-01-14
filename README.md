@@ -24,12 +24,12 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
   <img align="center" height="30" width="40" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
   <img align="center" height="30" width="40" src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg">
  <img align="center" height="30" width="40" src="https://media.licdn.com/dms/image/v2/D4E0BAQFWt4Tl53wjZQ/company-logo_200_200/company-logo_200_200/0/1705960989383/docker_logo?e=2147483647&v=beta&t=WGsBeNiU4Rf7F3Q8MpSBu76ZVgjd_S4egCdiyQg3e_s">
    <img align="center" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*moJeTvW97yShLB7URRj5Kg.png">
-  <img align="center" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*moJeTvW97yShLB7URRj5Kg.png">
  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/260px-Node.js_logo.svg.png">
-   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
+   
   
 </div><br>
   
