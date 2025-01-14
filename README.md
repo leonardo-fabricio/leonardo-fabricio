@@ -17,12 +17,13 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="50" src="https://icongr.am/devicon/django-original.svg">
-  <img align="center" alt="Luis-Bootstrapp" height="40" width="50" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Bootstrapp" height="40" width="50" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg">
   <img align="center" alt="C++" height="40" width="50" src="https://icongr.am/devicon/cplusplus-original.svg">
   <img align="center" alt="Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" height="30" width="40" src="https://www.fullstackpython.com/img/logos/django.png">
 </div><br>
   
   
