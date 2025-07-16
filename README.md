@@ -9,9 +9,14 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
 </ul>
 
  <div>
-  <a href="https://github.com/leonardo-fabricio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-fabricio&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-fabricio&langs_count=10&theme=dracula"/>
+
+  ![All_Commits](https://github-readme-stats.vercel.app/api?username=leonardo-fabricio&theme=dracula&include_all_commits=true&count_private=true)
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=leonardo-fabricio&theme=onedark)
+
+  ![Streak](https://streak-stats.demolab.com/?user=leonardo-fabricio&theme=tokyonight)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-fabricio&layout=compact&theme=radical)
 </div>
   
 <div style="display: inline_block"><br>
