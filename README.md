@@ -5,6 +5,7 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
 <ul>
   <li>Developer from <b>Alexandria/RN, 🇧🇷 Brasil</b>;</li>
   <li>Full Typescript 🚀</li>
+  <li>Team Leader and Developer at @Pechinchou</li>
 </ul>
 
  <div>
