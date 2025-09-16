@@ -14,8 +14,6 @@ Graduado em Análise e Desenvolvimento de Sistemas | IFRN Campus Pau dos Ferros.
   
   ![Trophy](https://github-profile-trophy.vercel.app/?username=leonardo-fabricio&theme=onedark)
 
-  ![Streak](https://streak-stats.demolab.com/?user=leonardo-fabricio&theme=tokyonight)
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-fabricio&layout=compact&theme=radical)
 </div>
   
